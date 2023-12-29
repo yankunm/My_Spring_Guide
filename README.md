@@ -31,6 +31,8 @@ Spring **projects** are additional modules built-on top of the Spring Framework,
 ## Guide Contents
 
 1. [Maven](Maven)
+2. [Spring Boot 3](01-spring-boot-overview)
+
 
 
 
